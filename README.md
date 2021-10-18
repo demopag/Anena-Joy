@@ -132,3 +132,5 @@
 .edu{
     margin-left: 30px;
 }
+
+    
